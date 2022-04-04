@@ -1,0 +1,15 @@
+C:\Revature\TRrepo1\Project0\Store\bin\Debug\net6.0\Store.exe
+C:\Revature\TRrepo1\Project0\Store\bin\Debug\net6.0\Store.deps.json
+C:\Revature\TRrepo1\Project0\Store\bin\Debug\net6.0\Store.runtimeconfig.json
+C:\Revature\TRrepo1\Project0\Store\bin\Debug\net6.0\Store.dll
+C:\Revature\TRrepo1\Project0\Store\bin\Debug\net6.0\Store.pdb
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.AssemblyInfo.cs
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.dll
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\refint\Store.dll
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.pdb
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\Store.genruntimeconfig.cache
+C:\Revature\TRrepo1\Project0\Store\obj\Debug\net6.0\ref\Store.dll
